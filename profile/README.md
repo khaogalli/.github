@@ -32,7 +32,20 @@
 
 ## Preview
 
-
-
-
+<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <video width="100%" controls>
+      <source src="path/to/video1.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Video 1: KhaoGalli Home and Browsing</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <video width="100%" controls>
+      <source src="path/to/video2.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Video 2: KhaoGalli Ordering Process</p>
+  </div>
+</div>
 </div>
